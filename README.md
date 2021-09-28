@@ -9,13 +9,13 @@
 
 ### Languages
 
-![](https://img.shields.io/badge/-Java-E95420?style=flat-square&logo=Java&logoColor=white)
-![](https://img.shields.io/badge/-Dart-0175C1?style=flat-square&logo=Dart&logoColor=white)
-![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=Mysql&logoColor=white)
-![](https://img.shields.io/badge/-C-79B9CC?style=flat-square&logo=C&logoColor=white)
-![](https://img.shields.io/badge/-Groovy-3776AB?style=flat-square&logo=Apache%20Groovy&logoColor=white)
-![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![](https://img.shields.io/badge/-Java-E95420?style=for-the-badge&logo=Java&logoColor=white)
+![](https://img.shields.io/badge/-Dart-0175C1?style=for-the-badge&logo=Dart&logoColor=white)
+![](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=Mysql&logoColor=white)
+![](https://img.shields.io/badge/-C-79B9CC?style=for-the-badge&logo=C&logoColor=white)
+![](https://img.shields.io/badge/-Groovy-3776AB?style=for-the-badge&logo=Apache%20Groovy&logoColor=white)
+![](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 
 ### Tools
@@ -37,15 +37,13 @@
 
 ## Current Daily Workflow: Flutter, Git and Dart.
 
----
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=iamSRQansari&count_private=true&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamSRQansari&ring=5094F0&currStreakLabel=5094F0"/> |
+| <img src="https://github-readme-stats.vercel.app/api?username=iamSRQansari&show_icons=true&count_private=true"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamSRQansari&ring=5094F0&currStreakLabel=5094F0"/> |
 |:------------:|:------------:|
 
 ![Sharique's github activity graph](https://activity-graph.herokuapp.com/graph?username=iamSRQansari&bg_color=ffffff&color=5094f0&line=5094f0&point=000000&area=true&area_color=5094f0&hide_border=true)
 
 
-## get in touch
+## Get in touch
 <!-- 
 [![](https://img.shields.io/badge/-@saquibansari0101-181717?style=flat-square&logo=Github&logoColor=white)](https://github.com/saquibansari0101) -->
 [![](https://img.shields.io/badge/-@iamsrqansari-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-sharique-a-b6b527a1/)
