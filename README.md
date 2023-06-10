@@ -40,8 +40,7 @@
 | <img src="https://github-readme-stats.vercel.app/api?username=iamSRQansari&show_icons=true&count_private=true"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamSRQansari&ring=5094F0&currStreakLabel=5094F0"/> |
 |:------------:|:------------:|
 
-![Sharique's github activity graph](https://activity-graph.herokuapp.com/graph?username=iamSRQansari&bg_color=ffffff&color=5094f0&line=5094f0&point=000000&area=true&area_color=5094f0&hide_border=true)
-
+[![Sharique's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iamSRQansari)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Get in touch
 <!-- 
